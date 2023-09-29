@@ -1,2 +1,2 @@
 # C-Sharp
-Some apps i make in c#
+Some things i make in c#
